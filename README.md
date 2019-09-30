@@ -5,12 +5,12 @@ Create a script that loops through all the stocks data for years 2014, 2015 and 
 
   ° Yearly change from what the stock opened the year at to what the closing price was.
 
-  ° The percent change from the what it opened the year at to what it closed.
+  ° The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
 
-  ° The total Volume of the stock.
+  ° The total stock volume of the stock.
 
   ° Ticker symbol.
 
-  ° Have conditional formatting that highlights positive change in green and negative change in red.
+  ° Use conditional formatting that highlights positive change in green and negative change in red.
 
-  ° Locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
+  ° Return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
